@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Folder</title>
+</head>
+<body>
+    <h1>Welcome to My GitHub Folder!</h1>
+    <p>This is a simple HTML page placed inside my GitHub repository.</p>
+
+    <h2>Files in this folder:</h2>
+    <ul>
+        <li><a href="file1.html">file1.html</a></li>
+        <li><a href="script.js">script.js</a></li>
+        <li><a href="style.css">style.css</a></li>
+        <li><a href="README.md">README.md</a></li>
+    </ul>
+
+    <p>Check out my project on <a href="https://github.com/your-username/your-repo" target="_blank">GitHub</a>.</p>
+</body>
+</html>
